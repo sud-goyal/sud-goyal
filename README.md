@@ -22,8 +22,8 @@ My GitHub is a digital playground where I bring my wildest ideas to life. From c
 ### Current Projects 🚀
 
 Since 2020 most of my contributions are private but here are a few interesting personal projects, I'm exploring RN!
-## Machine Learning Magic: My AI creations are shaping the future – from image recognition to natural language processing. 🧙‍♂️
-## Revolutionizing HEALTH-TECH: Stealth project on mind-body connection and exploring ourselves, testing meditation remedies 📢
+# Machine Learning Magic: My AI creations are shaping the future – from image recognition to natural language processing. 🧙‍♂️
+# Revolutionizing HEALTH-TECH: Stealth project on mind-body connection and exploring ourselves, testing meditation remedies 📢
 
 ### Fun Facts 🎉
 🚴‍♂️ Fun Fact 1: When I'm not coding, I'm an avid cyclist – exploring new paths and finding inspiration in the great outdoors.
