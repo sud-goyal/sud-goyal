@@ -4,10 +4,10 @@ Welcome to my GitHub universe! 🌌 Here's where I channel my passion for innova
 
 ### About Me 🧑‍💻
 
-I'm Suyash, Tech enthusiast and ML developer 🎯 When I'm not strategizing for my work, you'll find me exploring the realms of AI, machine learning, and all things futuristic. 🤖
+I'm Sudd, Tech enthusiast and ML developer 🎯 When I'm not strategizing for my work, you'll find me exploring the realms of AI, machine learning, and all things futuristic. 🤖
 
-- 🔭 I’m currently working at a leading global travel company
-- 🌱 I’m currently learning and implementing cool ML algos for finance world
+- 🔭 I’m currently working at a leading global advertising company
+- 🌱 I’m currently learning and implementing cool ML algos for marketing world
 - 👯 I’m looking to collaborate on ML and AI projects
 - 💬 Ask me about anything in tech
 
@@ -21,9 +21,9 @@ My GitHub is a digital playground where I bring my wildest ideas to life. From c
 
 ### Current Projects 🚀
 
-Since 2020 most of my contributions are private but here are a few interesting personal projects, I'm exploring RN!
+Since 2015 most of my contributions are private but here are a few interesting personal projects, I'm exploring RN!
 Machine Learning Magic: My AI creations are shaping the future – from image recognition to natural language processing. 🧙‍♂️
-Revolutionizing HEALTH-TECH: Stealth project on mind-body connection and exploring ourselves, testing meditation remedies 📢
+Revolutionizing AI based advertising: Stealth project on advertising for AI companies - imagine ad supprted version of ChatGPT 📢
 
 ### Fun Facts 🎉
 🚴‍♂️ Fun Fact 1: When I'm not coding, I'm an avid cyclist – exploring new paths and finding inspiration in the great outdoors.
